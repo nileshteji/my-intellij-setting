@@ -1,0 +1,12 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="compactStatusBar" value="true" />
+    <option name="compactSidebar" value="true" />
+    <option name="isCompactStatusBar" value="true" />
+    <option name="overrideAccentColor" value="false" />
+    <option name="accentColor" value="ff9800" />
+    <option name="selectedTheme" value="DARKER" />
+    <option name="userId" value="571349e2:17c6aa0e035:-8000" />
+    <option name="version" value="5.5.0" />
+  </component>
+</application>
