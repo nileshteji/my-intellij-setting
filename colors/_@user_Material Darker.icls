@@ -4,19 +4,18 @@
     <property name="created">2021-10-12T14:20:18</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2020.3.1.24</property>
-    <property name="modified">2021-10-15T02:50:32</property>
+    <property name="modified">2021-10-15T02:53:19</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.5" />
   <font>
-    <option name="EDITOR_FONT_NAME" value="Fira Code Medium" />
+    <option name="EDITOR_FONT_NAME" value="Fira Code Retina" />
     <option name="EDITOR_FONT_SIZE" value="15" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Fira Code" />
     <option name="EDITOR_FONT_SIZE" value="15" />
   </font>
-  <option name="EDITOR_LIGATURES" value="true" />
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Menlo" />
     <option name="EDITOR_FONT_SIZE" value="12" />
