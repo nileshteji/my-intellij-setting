@@ -2,6 +2,9 @@
   <action id="ManageRecentProjects">
     <keyboard-shortcut first-keystroke="ctrl alt p" />
   </action>
+  <action id="SelectInProjectView">
+    <keyboard-shortcut first-keystroke="ctrl alt l" />
+  </action>
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl meta e" />
   </action>
