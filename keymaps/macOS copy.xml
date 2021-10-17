@@ -1,7 +1,4 @@
 <keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
-  <action id="ActivateBuildToolWindow">
-    <keyboard-shortcut first-keystroke="shift b" />
-  </action>
   <action id="ManageRecentProjects">
     <keyboard-shortcut first-keystroke="ctrl alt p" />
   </action>
