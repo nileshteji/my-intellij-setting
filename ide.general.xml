@@ -1,0 +1,23 @@
+<application>
+  <component name="GeneralSettings">
+    <option name="confirmExit" value="false" />
+    <option name="confirmOpenNewProject2" value="1" />
+    <option name="processCloseConfirmation" value="TERMINATE" />
+    <option name="showTipsOnStartup" value="false" />
+  </component>
+  <component name="Registry">
+    <entry key="external.system.auto.import.disabled" value="true" />
+    <entry key="ide.instant.shutdown" value="false" />
+    <entry key="ide.balloon.shadow.size" value="0" />
+  </component>
+  <component name="StatusBar">
+    <option name="widgets">
+      <map>
+        <entry key="Encoding" value="false" />
+        <entry key="Position" value="false" />
+        <entry key="UserSentimentPanelNegative" value="false" />
+        <entry key="UserSentimentPanelPositive" value="false" />
+      </map>
+    </option>
+  </component>
+</application>
