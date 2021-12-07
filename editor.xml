@@ -7,6 +7,9 @@
   <component name="EditorSettings">
     <option name="IS_INDENT_GUIDES_SHOWN" value="false" />
   </component>
+  <component name="JetEditorOptions">
+    <option name="donTShowConversionDialog" value="true" />
+  </component>
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
     <pattern pattern="\bfixme\b.*" />
