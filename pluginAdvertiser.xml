@@ -101,6 +101,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.bat">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="Batch Scripts Support" />
+              <option name="myPluginName" value="Batch Scripts Support" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.bigtiff">
           <value>
             <plugin>
@@ -143,6 +151,14 @@
               <option name="myPluginId" value="com.android.tools.ndk" />
               <option name="myPluginName" value="Android NDK Support" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.cmd">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="Batch Scripts Support" />
+              <option name="myPluginName" value="Batch Scripts Support" />
             </plugin>
           </value>
         </entry>
