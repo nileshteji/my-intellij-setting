@@ -8,6 +8,7 @@
             <value value="f1ffaea2" />
           </Key>
         </key>
+        <lastOnlineTime value="2022-01-30T16:22:31.245523Z" />
         <name value="OnePlus ONEPLUS A5000" />
         <target value="Android 10.0" />
         <api value="29" />
@@ -19,7 +20,6 @@
             <value value="adb-9da2152d-5MkW5D._adb-tls-connect._tcp." />
           </Key>
         </key>
-        <lastOnlineTime value="2022-01-30T16:15:38.961068Z" />
         <name value="OnePlus KB2001" />
         <target value="Android 11.0" />
         <api value="30" />
