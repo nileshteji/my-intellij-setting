@@ -4,13 +4,35 @@
       <PhysicalDevice>
         <key>
           <Key>
+            <type value="DOMAIN_NAME" />
+            <value value="adb-f1ffaea2-TWnbOT._adb-tls-connect._tcp." />
+          </Key>
+        </key>
+        <name value="Device" />
+        <target value="Android 1.0" />
+        <api value="1" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
             <type value="SERIAL_NUMBER" />
             <value value="f1ffaea2" />
           </Key>
         </key>
         <name value="OnePlus ONEPLUS A5000" />
-        <target value="Android 10.0" />
-        <api value="29" />
+        <target value="Android 12.0" />
+        <api value="31" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="DOMAIN_NAME" />
+            <value value="adb-9da2152d-5MkW5D._adb-tls-connect._tcp." />
+          </Key>
+        </key>
+        <name value="OnePlus KB2001" />
+        <target value="Android 11.0" />
+        <api value="30" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
