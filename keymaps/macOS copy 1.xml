@@ -2,6 +2,9 @@
   <action id="AndroidConnectDebuggerAction">
     <keyboard-shortcut first-keystroke="meta i" />
   </action>
+  <action id="FileChooser.LightEditGotoOpenedFile">
+    <keyboard-shortcut first-keystroke="ctrl alt l" />
+  </action>
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl meta e" />
   </action>
