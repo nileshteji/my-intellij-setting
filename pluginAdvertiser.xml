@@ -27,11 +27,6 @@
                       <FeaturePluginData displayName="Application" pluginName="Java" pluginId="com.intellij.java" bundled="true" />
                     </value>
                   </entry>
-                  <entry key="BatchConfigurationType">
-                    <value>
-                      <FeaturePluginData displayName="Batch" pluginName="Batch Scripts Support" pluginId="Batch Scripts Support" />
-                    </value>
-                  </entry>
                   <entry key="ComposePreviewRunConfiguration">
                     <value>
                       <FeaturePluginData displayName="Compose Preview" pluginName="Design Tools" pluginId="com.android.tools.design" bundled="true" />
