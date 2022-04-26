@@ -30,8 +30,19 @@
             <value value="e9bd46b5" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-04-26T08:10:21.784748Z" />
         <name value="OnePlus GM1901" />
+        <target value="Android 11.0" />
+        <api value="30" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="RZ8N91CDD7K" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-04-26T09:09:25.641261Z" />
+        <name value="samsung SM-A507FN" />
         <target value="Android 11.0" />
         <api value="30" />
       </PhysicalDevice>
