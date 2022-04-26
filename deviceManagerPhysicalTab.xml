@@ -23,6 +23,18 @@
         <target value="Android 11.0" />
         <api value="30" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="e9bd46b5" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-04-26T07:13:40.049426Z" />
+        <name value="OnePlus GM1901" />
+        <target value="Android 11.0" />
+        <api value="30" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
