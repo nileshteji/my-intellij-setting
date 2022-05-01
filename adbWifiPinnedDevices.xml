@@ -1,5 +1,0 @@
-<application>
-  <component name="PinDeviceService">
-    <option name="pinnedDevices" value="[{&quot;id&quot;:&quot;192.168.0.54:5555&quot;,&quot;serialNumber&quot;:&quot;f1ffaea2&quot;,&quot;name&quot;:&quot;OnePlus ONEPLUS A5000&quot;,&quot;address&quot;:&quot;192.168.0.54&quot;,&quot;port&quot;:5555,&quot;androidVersion&quot;:&quot;12&quot;,&quot;apiLevel&quot;:&quot;31&quot;}]" />
-  </component>
-</application>
