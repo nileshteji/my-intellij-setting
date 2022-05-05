@@ -23,6 +23,63 @@
         <target value="Android 11.0" />
         <api value="30" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="e9bd46b5" />
+          </Key>
+        </key>
+        <name value="OnePlus GM1901" />
+        <target value="Android 11.0" />
+        <api value="30" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="RZ8N91CDD7K" />
+          </Key>
+        </key>
+        <name value="samsung SM-A507FN" />
+        <target value="Android 11.0" />
+        <api value="30" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="f1ffaea2" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-05-02T09:31:37.091897Z" />
+        <name value="OnePlus ONEPLUS A5000" />
+        <target value="Android 12.0" />
+        <api value="31" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.1.251:5555" />
+          </Key>
+        </key>
+        <name value="OnePlus ONEPLUS A5000" />
+        <target value="Android 12.0" />
+        <api value="31" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.0.54:5555" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-04-29T10:16:13.461810Z" />
+        <name value="OnePlus ONEPLUS A5000" />
+        <target value="Android 12.0" />
+        <api value="31" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
