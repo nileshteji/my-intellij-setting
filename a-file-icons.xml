@@ -1,6 +1,6 @@
 <application>
   <component name="AtomFileIconsConfig">
-    <option name="enabledUIIcons" value="false" />
-    <option name="isEnabledUIIcons" value="false" />
+    <option name="enabledIcons" value="false" />
+    <option name="isEnabledIcons" value="false" />
   </component>
 </application>
