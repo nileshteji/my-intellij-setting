@@ -4,14 +4,15 @@
     <property name="created">2022-04-15T15:41:54</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2021.1.1.23</property>
-    <property name="modified">2022-04-15T15:42:49</property>
+    <property name="modified">2022-04-21T12:26:29</property>
     <property name="originalScheme">Lotus Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
-  <option name="EDITOR_FONT_SIZE" value="13" />
-  <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
+  <option name="EDITOR_FONT_SIZE" value="16" />
+  <option name="EDITOR_FONT_NAME" value="SF Mono" />
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="JetBrains Mono" />
+  <option name="CONSOLE_FONT_SIZE" value="13" />
   <option name="CONSOLE_LIGATURES" value="true" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="a9dc76" />
