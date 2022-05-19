@@ -4,6 +4,39 @@
       <PhysicalDevice>
         <key>
           <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="f1ffaea2" />
+          </Key>
+        </key>
+        <name value="OnePlus ONEPLUS A5000" />
+        <target value="Android 12.0" />
+        <api value="31" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.1.18:5555" />
+          </Key>
+        </key>
+        <name value="OnePlus ONEPLUS A5000" />
+        <target value="Android 12.0" />
+        <api value="31" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.1.21:5555" />
+          </Key>
+        </key>
+        <name value="OnePlus ONEPLUS A5000" />
+        <target value="Android 12.0" />
+        <api value="31" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
             <type value="DOMAIN_NAME" />
             <value value="adb-f1ffaea2-TWnbOT._adb-tls-connect._tcp." />
           </Key>
@@ -49,18 +82,6 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="f1ffaea2" />
-          </Key>
-        </key>
-        <lastOnlineTime value="2022-05-02T09:31:37.091897Z" />
-        <name value="OnePlus ONEPLUS A5000" />
-        <target value="Android 12.0" />
-        <api value="31" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
             <value value="192.168.1.251:5555" />
           </Key>
         </key>
@@ -75,7 +96,6 @@
             <value value="192.168.0.54:5555" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-04-29T10:16:13.461810Z" />
         <name value="OnePlus ONEPLUS A5000" />
         <target value="Android 12.0" />
         <api value="31" />
