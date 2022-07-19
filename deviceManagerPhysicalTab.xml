@@ -1,0 +1,105 @@
+<application>
+  <component name="deviceManagerPhysicalTab">
+    <physicalDevices>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="f1ffaea2" />
+          </Key>
+        </key>
+        <name value="OnePlus ONEPLUS A5000" />
+        <target value="Android 12.0" />
+        <api value="31" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.1.18:5555" />
+          </Key>
+        </key>
+        <name value="OnePlus ONEPLUS A5000" />
+        <target value="Android 12.0" />
+        <api value="31" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.1.21:5555" />
+          </Key>
+        </key>
+        <name value="OnePlus ONEPLUS A5000" />
+        <target value="Android 12.0" />
+        <api value="31" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="DOMAIN_NAME" />
+            <value value="adb-f1ffaea2-TWnbOT._adb-tls-connect._tcp." />
+          </Key>
+        </key>
+        <name value="OnePlus ONEPLUS A5000" />
+        <target value="Android 12.0" />
+        <api value="31" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="DOMAIN_NAME" />
+            <value value="adb-RZ8N91CDD7K-ht24DL._adb-tls-connect._tcp." />
+          </Key>
+        </key>
+        <name value="samsung SM-A507FN" />
+        <target value="Android 11.0" />
+        <api value="30" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="e9bd46b5" />
+          </Key>
+        </key>
+        <name value="OnePlus GM1901" />
+        <target value="Android 11.0" />
+        <api value="30" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="RZ8N91CDD7K" />
+          </Key>
+        </key>
+        <name value="samsung SM-A507FN" />
+        <target value="Android 11.0" />
+        <api value="30" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.1.251:5555" />
+          </Key>
+        </key>
+        <name value="OnePlus ONEPLUS A5000" />
+        <target value="Android 12.0" />
+        <api value="31" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.0.54:5555" />
+          </Key>
+        </key>
+        <name value="OnePlus ONEPLUS A5000" />
+        <target value="Android 12.0" />
+        <api value="31" />
+      </PhysicalDevice>
+    </physicalDevices>
+  </component>
+</application>
