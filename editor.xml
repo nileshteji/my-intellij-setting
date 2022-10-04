@@ -1,0 +1,18 @@
+<application>
+  <component name="EditorSettings">
+    <option name="languageBreadcrumbsMap">
+      <map>
+        <entry key="kotlin" value="true" />
+      </map>
+    </option>
+    <option name="USE_SOFT_WRAPS" value="" />
+    <option name="SHOW_BREADCRUMBS" value="false" />
+  </component>
+  <component name="JetEditorOptions">
+    <option name="donTShowConversionDialog" value="true" />
+  </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
+  </component>
+</application>
