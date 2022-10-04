@@ -10,6 +10,7 @@
     <entry key="ide.instant.shutdown" value="false" />
     <entry key="ide.balloon.shadow.size" value="0" />
     <entry key="ide.text.editor.with.preview.show.floating.toolbar" value="false" />
+    <entry key="ide.experimental.ui" value="true" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
@@ -19,7 +20,6 @@
         <entry key="JSONSchemaSelector" value="false" />
         <entry key="LineSeparator" value="false" />
         <entry key="Position" value="false" />
-        <entry key="PowerSaveMode" value="true" />
         <entry key="SendFeedbackPanel" value="false" />
         <entry key="UserSentimentPanelNegative" value="false" />
         <entry key="UserSentimentPanelPositive" value="false" />
