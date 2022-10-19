@@ -1,5 +1,12 @@
 <keymap version="1" name="macOS copy 2" parent="Mac OS X 10.5+">
-  <action id="SelectInProjectView">
-    <keyboard-shortcut first-keystroke="ctrl alt l" />
+  <action id="ActivateEndpointsToolWindow">
+    <keyboard-shortcut first-keystroke="meta s" />
+  </action>
+  <action id="SaveAll" />
+  <action id="android.deploy.ApplyChanges">
+    <keyboard-shortcut first-keystroke="ctrl meta e" />
+  </action>
+  <action id="android.deploy.CodeSwap">
+    <keyboard-shortcut first-keystroke="shift ctrl meta e" />
   </action>
 </keymap>
