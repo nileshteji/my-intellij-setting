@@ -1,0 +1,5 @@
+<keymap version="1" name="macOS copy 4" parent="Mac OS X 10.5+">
+  <action id="AndroidConnectDebuggerAction">
+    <keyboard-shortcut first-keystroke="shift i" />
+  </action>
+</keymap>
