@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine tag:Ielts" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:Ielts" />
         <option value="package:mine " />
         <option value="package:mine tag:check " />
         <option value="package:mine tag:check" />
