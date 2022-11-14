@@ -71,17 +71,6 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="e9bd46b5" />
-          </Key>
-        </key>
-        <name value="OnePlus GM1901" />
-        <target value="Android 11.0" />
-        <api value="androidversion:30:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
             <value value="RZ8N91CDD7K" />
           </Key>
         </key>
