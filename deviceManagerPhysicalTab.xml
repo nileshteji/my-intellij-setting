@@ -4,13 +4,13 @@
       <PhysicalDevice>
         <key>
           <Key>
-            <type value="DOMAIN_NAME" />
-            <value value="adb-9da2152d-5MkW5D._adb-tls-connect._tcp." />
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.3.239:5555" />
           </Key>
         </key>
-        <name value="OnePlus KB2001" />
-        <target value="Android 12.0" />
-        <api value="androidversion:31:null:null:true" />
+        <name value="OnePlus GM1911" />
+        <target value="Android 11.0" />
+        <api value="androidversion:30:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -71,17 +71,6 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="e9bd46b5" />
-          </Key>
-        </key>
-        <name value="OnePlus GM1901" />
-        <target value="Android 11.0" />
-        <api value="androidversion:30:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
             <value value="RZ8N91CDD7K" />
           </Key>
         </key>
@@ -115,18 +104,7 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="9da2152d" />
-          </Key>
-        </key>
-        <name value="OnePlus KB2001" />
-        <target value="Android 12.0" />
-        <api value="androidversion:31:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="DOMAIN_NAME" />
-            <value value="adb-19d86488-FQNczM._adb-tls-connect._tcp." />
+            <value value="19d86488" />
           </Key>
         </key>
         <name value="OnePlus GM1911" />
@@ -136,8 +114,8 @@
       <PhysicalDevice>
         <key>
           <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="19d86488" />
+            <type value="DOMAIN_NAME" />
+            <value value="adb-19d86488-FQNczM._adb-tls-connect._tcp." />
           </Key>
         </key>
         <name value="OnePlus GM1911" />
